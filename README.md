@@ -1,5 +1,5 @@
-# wildcanyon License Pages
+# wildcanyon License Pages · v3.1
 
-此目录是可公开的 GitHub Pages 发布内容。不要把 `invite_manager/private` 复制进来。
+公开签名授权清单。不要上传 invite_manager/private。
 
-自定义域名预设：`license.wildcanyon.cn`。
+Custom domain: license.wildcanyon.cn
